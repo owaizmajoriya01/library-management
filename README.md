@@ -5,3 +5,5 @@ first create a folder in your system and then add all the files and folders into
 
 thankyou 
 
+step 1 command : pip install -r requirement.txt
+step 2 command : python manage.py runserver
